@@ -1,0 +1,4 @@
+resource_rc.py filter=lfs diff=lfs merge=lfs -text
+The[[:space:]]Critical[[:space:]]Reader[[:space:]]-[[:space:]]The[[:space:]]Comlete[[:space:]]Guide[[:space:]]to[[:space:]]SAT[[:space:]]Reading[[:space:]](2nd[[:space:]]Ed)(gnv64).pdf filter=lfs diff=lfs merge=lfs -text
+SATApp.exe filter=lfs diff=lfs merge=lfs -text
+Official_SAT_2018.pdf filter=lfs diff=lfs merge=lfs -text
